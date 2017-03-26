@@ -17,7 +17,7 @@ Platform assembly: C:\Users\Acer\Documents\Roll-a-Ball-Game-master\Builds\Window
 Loading C:\Users\Acer\Documents\Roll-a-Ball-Game-master\Builds\Windows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Acer\Documents\Roll-a-Ball-Game-master\Builds\Windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Acer\Documents\Roll-a-Ball-Game-master\Builds\Windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.544 seconds
+- Completed reload, in  0.030 seconds
 Platform assembly: C:\Users\Acer\Documents\Roll-a-Ball-Game-master\Builds\Windows_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Acer\Documents\Roll-a-Ball-Game-master\Builds\Windows_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
@@ -25,6 +25,6 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.717428 ms
+UnloadTime: 3.227651 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2594 -> priority: 1 
+  Thread -> id: 2b00 -> priority: 1 
